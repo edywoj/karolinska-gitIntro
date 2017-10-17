@@ -10,3 +10,6 @@ Baby sharks are kind of cute, but they do bite.
 Left handed  Sea Otters are cuter than baby sharks.
 If Hadrian could reinvent himself, he would be a Sea Otter
 in Vancouver.
+
+## Killer whales
+Lachlan's favourite whale - and nt because of the movie.
